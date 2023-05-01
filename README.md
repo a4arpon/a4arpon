@@ -17,8 +17,7 @@ I've been working as a professional web developer since 2019. I have lot of expe
 <a href="https://www.github.com/a4arpon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/arpon-svg?logo=github&style=for-the-badge&color=3382ed&labelColor=181824" /></a><a href="https://www.twitter.com/a4arpon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/a4arpon?logo=twitter&style=for-the-badge&color=3382ed&labelColor=181824"
-/></a><a href="https://www.twitch.tv/a4arpon" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/a4arpon?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=181824&label=TWITCH+STATUS" /></a>
+/></a><a href="https://www.twitch.tv/a4arpon" target="_blank" rel="noreferrer">
 
 ### Skills
 
@@ -57,11 +56,11 @@ src="https://img.shields.io/twitch/status/a4arpon?logo=twitchsx&style=for-the-ba
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/arpon-svg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arpon-svg&stroke=ffffff&background=181824&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/a4arpon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=a4arpon&stroke=ffffff&background=181824&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/arpon-svg"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=arpon-svg&bg_color=181824&color=ffffff&line=3382ed&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/a4arpon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=a4arpon&bg_color=181824&color=ffffff&line=3382ed&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/arpon-svg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpon-svg&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/a4arpon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a4arpon&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
