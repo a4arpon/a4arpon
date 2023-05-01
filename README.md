@@ -9,12 +9,12 @@ I've been working as a professional web developer since 2019. I have lot of expe
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [MY PORTFOLIO](http://a4arpon.github.io/)
 * ✉️  You can contact me at [a4arpon@gmail.com](mailto:a4arpon@gmail.com)
-* 🚀  I'm currently working on [Black Telescope](http://blacktelescope.xyz)
+* 🚀  I'm currently working on [Black Telescope](http://wayne4u.xyz)
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on Open Source Python Projects
 * ⚡  Genius, Romeo & Wild
 
-<a href="https://www.github.com/a4arpong" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/a4arpon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/arpon-svg?logo=github&style=for-the-badge&color=3382ed&labelColor=181824" /></a><a href="https://www.twitter.com/a4arpon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/a4arpon?logo=twitter&style=for-the-badge&color=3382ed&labelColor=181824"
 /></a><a href="https://www.twitch.tv/a4arpon" target="_blank" rel="noreferrer"><img
