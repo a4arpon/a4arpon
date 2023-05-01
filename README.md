@@ -9,7 +9,7 @@ I've been working as a professional web developer since 2019. I have lot of expe
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [MY PORTFOLIO](http://a4arpon.github.io/)
 * ✉️  You can contact me at [a4arpon@gmail.com](mailto:a4arpon@gmail.com)
-* 🚀  I'm currently working on [Black Telescope](http://wayne4u.xyz)
+* 🚀  I'm currently working on [Wayne Corp.](http://wayne4u.xyz)
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on Open Source Python Projects
 * ⚡  Genius, Romeo & Wild
