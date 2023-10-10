@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "6179b1798be47e6f68e60a1a",
+    "name": "Alice",
+    "email": "alice@example.com",
+    "phone": "+11234567890",
+    "location": "Some Location",
+    "photoUrl": "https://example.com/alice.jpg"
+  },
+  {
+    "_id": "6179b17a8be47e6f68e60a1b",
+    "name": "Bob",
+    "email": "bob@test.com",
+    "phone": "+19876543210",
+    "location": "Some Location",
+    "photoUrl": "https://example.com/bob.jpg"
+  },
+  {
+    "_id": "6179b17b8be47e6f68e60a1c",
+    "name": "Charlie",
+    "email": "charlie@example.com",
+    "phone": "+18765432109",
+    "location": "Some Location",
+    "photoUrl": "https://example.com/charlie.jpg"
+  },
+  {
+    "_id": "6179b17c8be47e6f68e60a1d",
+    "name": "David",
+    "email": "david@example.com",
+    "phone": "+17654321098",
+    "location": "Some Location",
+    "photoUrl": "https://example.com/david.jpg"
+  },
+  {
+    "_id": "6179b17d8be47e6f68e60a1e",
+    "name": "Eve",
+    "email": "eve@test.com",
+    "phone": "+16543210987",
+    "location": "Some Location",
+    "photoUrl": "https://example.com/eve.jpg"
+  }
+]
