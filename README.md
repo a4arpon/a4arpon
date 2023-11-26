@@ -1,6 +1,8 @@
-<h3 align="left">Shahin Islam Arpon<br><br>JavaScript Back-End Developer || JavaScript Web-App Developer<br><br>Currently working at Posh Print LLC, US.<br><br>Passionate about Back-end and complex functionality development. But have some expertise in Front-End Development also. <br><br><br><br><br>In a world of code, I dance and play,<br>With TypeScript, JavaScript, every day.<br>NodeJS and React, my partners in rhyme,<br>ExpressJS joins, in perfect time...<br><br>~Arpon</h3>
+<p align="left">Shahin Islam Arpon<br><br>JavaScript Back-End Developer || JavaScript Web-App Developer<br><br>Currently working at Posh Print LLC, US.<br><br>Passionate about Back-end and complex functionality development. But have some expertise in Front-End Development also. <br><br><br><br><br>In a world of code, I dance and play,<br>With TypeScript, JavaScript, every day.<br>NodeJS and React, my partners in rhyme,<br>ExpressJS joins, in perfect time...<br><br>~Arpon</p>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://linkedin.com/in/a4arpon" target="_blank">
@@ -34,7 +36,9 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a4arpon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=Mr.%20Wayne%20Git%20Stats" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=a4arpon&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a4arpon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
