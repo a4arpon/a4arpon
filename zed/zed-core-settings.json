@@ -1,0 +1,87 @@
+{
+  "outline_panel": {
+    "dock": "right"
+  },
+  "collaboration_panel": {
+    "dock": "left"
+  },
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "theme": "Andromeda",
+  "features": {
+    "copilot": false,
+    "inline_completion_provider": "none"
+  },
+  "project_panel": {
+    "dock": "right"
+  },
+  "ui_font_size": 18,
+  "buffer_font_size": 20,
+  "autosave": "off",
+  "format_on_save": "on",
+  "code_actions_on_format": {
+    "source.fixAll.ts": true,
+    "source.removeUnusedImports": true
+  },
+  "formatter": "language_server",
+  "git": {
+    "inline_blame": {
+      "enabled": false
+    },
+    "git_gutter": "tracked_files"
+  },
+  "projects_online_by_default": false,
+  "buffer_font_family": "JetBrains Mono",
+  "auto_update": false,
+  "assistant": {
+    "version": "2",
+    "enabled": false
+  },
+  "chat_panel": {
+    "button": false
+  },
+  "scrollbar": {
+    "show": "always"
+  },
+  "cursor_blink": false,
+  "soft_wrap": "preferred_line_length",
+  "toolbar": {
+    "breadcrumbs": false,
+    "quick_actions": false
+  },
+  "always_treat_brackets_as_autoclosed": true,
+  "terminal": {
+    "font_family": "JetBrainsMono Nerd Font",
+    "font_size": 18
+  },
+  "base_keymap": "VSCode",
+  "gutter": {
+    "folds": false
+  },
+  "file_scan_exclusions": [
+    "**/.git",
+    "**/node_modules",
+    "**/dist",
+    "**/.next",
+    "**/.svn",
+    "**/.hg",
+    "**/CVS",
+    "**/.DS_Store",
+    "**/Thumbs.db",
+    "**/.idea",
+    "**/.yarn/cache"
+  ],
+  "show_completion_documentation": false,
+  "show_copilot_suggestions": false,
+  "working_directory": "current_project_directory",
+  "show_call_status_icon": false,
+  "show_nav_history_buttons": false,
+  "language_servers": [
+    "snippet-completion-server",
+    "json-language-server",
+    "biome",
+    "typescript-language-server"
+  ]
+}
