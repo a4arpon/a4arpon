@@ -40,7 +40,7 @@ services:
     ports:
      - '9092:9092'
     volumes:
-      - ./kafka-data:/var/lib/kafka/data
+      - ./DockerDB/kafka-data:/var/lib/kafka/data
     environment:
       KAFKA_ENABLE_KRAFT: "yes"
       KAFKA_CFG_PROCESS_ROLES: "broker,controller"
