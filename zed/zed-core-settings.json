@@ -9,26 +9,22 @@
     "diagnostics": false,
     "metrics": false
   },
-  "theme": "Andromeda",
+  "theme": "One Dark",
   "features": {
     "copilot": false,
-    "inline_completion_provider": "none"
+    "inline_completion_provider": "supermaven"
   },
   "project_panel": {
     "dock": "right"
   },
   "ui_font_size": 18,
-  "buffer_font_size": 20,
+  "buffer_font_size": 22,
+  "buffer_line_height": "comfortable",
   "autosave": "off",
-  "format_on_save": "on",
-  "code_actions_on_format": {
-    "source.fixAll.ts": true,
-    "source.removeUnusedImports": true
-  },
   "formatter": "language_server",
   "git": {
     "inline_blame": {
-      "enabled": false
+      "enabled": true
     },
     "git_gutter": "tracked_files"
   },
@@ -48,8 +44,8 @@
   "cursor_blink": false,
   "soft_wrap": "preferred_line_length",
   "toolbar": {
-    "breadcrumbs": false,
-    "quick_actions": false
+    "breadcrumbs": true,
+    "quick_actions": true
   },
   "always_treat_brackets_as_autoclosed": true,
   "terminal": {
@@ -74,14 +70,28 @@
     "**/.yarn/cache"
   ],
   "show_completion_documentation": false,
-  "show_copilot_suggestions": false,
+  "show_copilot_suggestions": true,
+  "show_completions_on_input": true,
   "working_directory": "current_project_directory",
   "show_call_status_icon": false,
   "show_nav_history_buttons": false,
+  "node": {
+    "path": "/usr/bin/node",
+    "npm_path": "/usr/bin/npm",
+    "ignore_system_version": false
+  },
+  "tabs": {
+    "file_icons": true,
+    "git_status": true
+  },
+  "use_autoclose": true,
+  "cursor_shape": "bar",
   "language_servers": [
     "snippet-completion-server",
     "json-language-server",
     "biome",
-    "typescript-language-server"
+    "typescript-language-server",
+    "typos-lsp",
+    "typos"
   ]
 }
