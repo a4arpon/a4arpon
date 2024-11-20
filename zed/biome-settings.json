@@ -5,6 +5,15 @@
       "settings": {
         "require_config_file": true
       }
+    },
+    "typos": {
+      "initialization_options": {
+        "config": "typos.toml",
+        "path": "typos-lsp",
+        "diagnosticSeverity": "Error",
+        "logLevel": "info",
+        "trace.server": "off"
+      }
     }
   },
   "formatter": {
@@ -14,7 +23,8 @@
   },
   "code_actions_on_format": {
     "source.fixAll.biome": true,
-    "source.organizeImports.biome": true,
-    "source.removeUnusedImports": true
+    "source.organizeImports": true,
+    "source.removeUnusedImports.ts": true,
+    "source.fixAll.ts": true
   }
 }
