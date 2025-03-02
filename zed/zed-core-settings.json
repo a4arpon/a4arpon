@@ -1,42 +1,45 @@
 {
+  "icon_theme": "Zed (Default)",
   "outline_panel": {
     "dock": "right"
   },
   "collaboration_panel": {
-    "dock": "left"
+    "dock": "right"
   },
   "telemetry": {
     "diagnostics": false,
     "metrics": false
   },
-  "theme": "One Dark",
+  "theme": "Ayu Dark",
   "features": {
     "copilot": false,
-    "inline_completion_provider": "supermaven"
+    "edit_prediction_provider": "supermaven"
   },
   "project_panel": {
     "dock": "right"
   },
   "ui_font_size": 18,
+  "ui_font_family": "Comfortaa",
   "buffer_font_size": 22,
-  "buffer_line_height": "comfortable",
+  "buffer_font_family": "JetBrains Mono",
+  "buffer_line_height": {
+    "custom": 1.7
+  },
   "autosave": "off",
-  "formatter": "language_server",
   "git": {
     "inline_blame": {
-      "enabled": true
+      "enabled": false
     },
     "git_gutter": "tracked_files"
   },
   "projects_online_by_default": false,
-  "buffer_font_family": "JetBrains Mono",
   "auto_update": false,
   "assistant": {
     "version": "2",
     "enabled": false
   },
   "chat_panel": {
-    "button": false
+    "button": "never"
   },
   "scrollbar": {
     "show": "always"
@@ -44,13 +47,13 @@
   "cursor_blink": false,
   "soft_wrap": "preferred_line_length",
   "toolbar": {
-    "breadcrumbs": true,
-    "quick_actions": true
+    "breadcrumbs": false,
+    "quick_actions": false
   },
   "always_treat_brackets_as_autoclosed": true,
   "terminal": {
-    "font_family": "JetBrainsMono Nerd Font",
-    "font_size": 18
+    "font_family": "JetBrains Mono",
+    "font_size": 20
   },
   "base_keymap": "VSCode",
   "gutter": {
@@ -87,11 +90,28 @@
   "use_autoclose": true,
   "cursor_shape": "bar",
   "language_servers": [
+    // "vtsls",
+    "typescript-language-server",
     "snippet-completion-server",
     "json-language-server",
     "biome",
-    "typescript-language-server",
-    "typos-lsp",
-    "typos"
-  ]
+    "codebook"
+  ],
+  "lsp": {
+    "biome": {
+      "settings": {
+        "require_config_file": true
+      }
+    }
+  },
+  "format_on_save": "on",
+  "formatter": {
+    "language_server": {
+      "name": "biome"
+    }
+  },
+  "code_actions_on_format": {
+    "source.fixAll.biome": true,
+    "source.removeUnusedImports.ts": true
+  }
 }
