@@ -1,5 +1,5 @@
 {
-  "icon_theme": "Zed (Default)",
+  "icon_theme": "VSCode Icons (Dark)",
   "outline_panel": {
     "dock": "right"
   },
@@ -10,7 +10,7 @@
     "diagnostics": false,
     "metrics": false
   },
-  "theme": "Ayu Dark",
+  "theme": "Fleet Dark",
   "features": {
     "copilot": false,
     "edit_prediction_provider": "supermaven"
@@ -85,7 +85,8 @@
   },
   "tabs": {
     "file_icons": true,
-    "git_status": true
+    "git_status": true,
+    "always_show_close_button": false
   },
   "use_autoclose": true,
   "cursor_shape": "bar",
