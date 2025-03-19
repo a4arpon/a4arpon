@@ -1,22 +1,31 @@
 {
-  "icon_theme": "VSCode Icons (Dark)",
+  "git_panel": {
+    "dock": "right",
+    "default_width": 480
+  },
+  "icon_theme": "Zed (Default)",
   "outline_panel": {
-    "dock": "right"
+    "dock": "right",
+    "default_width": 480
   },
   "collaboration_panel": {
-    "dock": "right"
+    "dock": "right",
+    "default_width": 480
   },
   "telemetry": {
     "diagnostics": false,
     "metrics": false
   },
-  "theme": "Fleet Dark",
+  "theme": "xR-a4arpon Dark",
   "features": {
     "copilot": false,
     "edit_prediction_provider": "supermaven"
   },
   "project_panel": {
-    "dock": "right"
+    "dock": "right",
+    "default_width": 480,
+    "auto_fold_dirs": true,
+    "indent_size": 20
   },
   "ui_font_size": 18,
   "ui_font_family": "Comfortaa",
@@ -86,7 +95,7 @@
   "tabs": {
     "file_icons": true,
     "git_status": true,
-    "always_show_close_button": false
+    "show_close_button": "hidden"
   },
   "use_autoclose": true,
   "cursor_shape": "bar",
