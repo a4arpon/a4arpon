@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.9">
+  <diagram name="Page-1" id="OVwlKsytdINQMQrVDT5V">
+    <mxGraphModel dx="1584" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AA3n3kABwFaR6whpRBaE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AA3n3kABwFaR6whpRBaE-3" target="AA3n3kABwFaR6whpRBaE-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="411" y="309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AA3n3kABwFaR6whpRBaE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="AA3n3kABwFaR6whpRBaE-3" target="AA3n3kABwFaR6whpRBaE-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="166" y="544" />
+              <mxPoint x="125" y="544" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AA3n3kABwFaR6whpRBaE-3" value="Website" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="339" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="AA3n3kABwFaR6whpRBaE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AA3n3kABwFaR6whpRBaE-5" target="AA3n3kABwFaR6whpRBaE-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="411" y="539" />
+              <mxPoint x="192" y="539" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AA3n3kABwFaR6whpRBaE-5" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.amplify;" vertex="1" parent="1">
+          <mxGeometry x="372" y="375" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="AA3n3kABwFaR6whpRBaE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AA3n3kABwFaR6whpRBaE-13" target="AA3n3kABwFaR6whpRBaE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AA3n3kABwFaR6whpRBaE-13" value="CDN + SSL + Front-end Asset Bucket" style="text;strokeColor=#BD7000;align=center;fillColor=#f0a30a;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="496" y="399" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AA3n3kABwFaR6whpRBaE-16" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
+          <mxGeometry x="86" y="599" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="AA3n3kABwFaR6whpRBaE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AA3n3kABwFaR6whpRBaE-20" target="AA3n3kABwFaR6whpRBaE-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AA3n3kABwFaR6whpRBaE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="AA3n3kABwFaR6whpRBaE-20" target="AA3n3kABwFaR6whpRBaE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AA3n3kABwFaR6whpRBaE-20" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#8CC64F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="236" y="629" width="73.5" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="AA3n3kABwFaR6whpRBaE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" edge="1" parent="1" source="AA3n3kABwFaR6whpRBaE-16" target="AA3n3kABwFaR6whpRBaE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AA3n3kABwFaR6whpRBaE-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="AA3n3kABwFaR6whpRBaE-22" target="AA3n3kABwFaR6whpRBaE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AA3n3kABwFaR6whpRBaE-22" value="Redis Caching Layer&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;For GET req.&lt;/span&gt;&lt;div&gt;If the data is needed to be commonly accessible frequently.&lt;br&gt;It will be stored into redis cache layer with a validation ttl.&amp;nbsp;&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="218.7" y="790" width="108.1" height="90.8" as="geometry" />
+        </mxCell>
+        <mxCell id="AA3n3kABwFaR6whpRBaE-28" value="Primary Database" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="401" y="669" width="97.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AA3n3kABwFaR6whpRBaE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" edge="1" parent="1" source="AA3n3kABwFaR6whpRBaE-28" target="AA3n3kABwFaR6whpRBaE-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="446" y="576" />
+              <mxPoint x="273" y="576" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
