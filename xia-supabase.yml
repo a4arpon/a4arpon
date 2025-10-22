@@ -1,0 +1,94 @@
+# Supabase (Latest Version)
+services:
+  studio:
+    image: supabase/studio:latest
+    ports:
+      - "3000:3000"
+    depends_on:
+      - gotrue
+      - realtime
+      - rest
+      - meta
+      - db
+    environment:
+      STUDIO_PG_META_URL: http://meta:8080
+      SUPABASE_URL: http://kong:8000
+      SUPABASE_ANON_KEY: ${ANON_KEY}
+      SUPABASE_SERVICE_KEY: ${SERVICE_ROLE_KEY}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    restart: unless-stopped
+
+  kong:
+    image: kong:latest
+    depends_on:
+      - db
+    environment:
+      KONG_DATABASE: off
+      KONG_DECLARATIVE_CONFIG: /var/lib/kong/kong.yml
+      KONG_DNS_ORDER: LAST,A,CNAME
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+
+  gotrue:
+    image: supabase/gotrue:v2.181.0-rc.15
+    depends_on:
+      - db
+    environment:
+      GOTRUE_JWT_SECRET: ${JWT_SECRET}
+      GOTRUE_DB_DRIVER: postgres
+      GOTRUE_DB_DATABASE_URL: postgres://postgres:${POSTGRES_PASSWORD}@db:5432/postgres
+    restart: unless-stopped
+
+  rest:
+    image: postgrest/postgrest:latest
+    depends_on:
+      - db
+    environment:
+      PGRST_DB_URI: postgres://postgres:${POSTGRES_PASSWORD}@db:5432/postgres
+      PGRST_DB_ANON_ROLE: anon
+    restart: unless-stopped
+
+  realtime:
+    image: supabase/realtime:latest
+    depends_on:
+      - db
+    environment:
+      DB_HOST: db
+      DB_USER: postgres
+      DB_PASSWORD: ${POSTGRES_PASSWORD}
+      DB_NAME: postgres
+    restart: unless-stopped
+
+  storage:
+    image: supabase/storage-api:latest
+    depends_on:
+      - db
+    environment:
+      ANON_KEY: ${ANON_KEY}
+      SERVICE_KEY: ${SERVICE_ROLE_KEY}
+    restart: unless-stopped
+
+  imgproxy:
+    image: darthsim/imgproxy:latest
+    environment:
+      IMGPROXY_BIND: ":8080"
+    restart: unless-stopped
+
+  meta:
+    image: supabase/postgres-meta:v0.88.9
+    depends_on:
+      - db
+    environment:
+      PG_META_DB_HOST: db
+      PG_META_DB_USER: postgres
+      PG_META_DB_PASSWORD: ${POSTGRES_PASSWORD}
+    restart: unless-stopped
+
+  db:
+    image: supabase/postgres:17.6.1.025
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    restart: unless-stopped
