@@ -95,11 +95,17 @@ My focus is on building fast, reliable, and scalable backend systems: APIs, queu
 # 🛠️ **Feature Highlights**
 
 ✔ High-performance APIs
+
 ✔ Background job systems
+
 ✔ Worker queues with RabbitMQ
+
 ✔ Real-time analytics pipelines
+
 ✔ Secure authentication flows
+
 ✔ SaaS-ready modular architecture
+
 ✔ Clean folder structures & DX-focused patterns
 
 ---
@@ -115,7 +121,7 @@ My focus is on building fast, reliable, and scalable backend systems: APIs, queu
 
 ---
 
-# 📊 **GitHub Overview (Clean Premium Layout)**
+# 📊 **GitHub Overview**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a4arpon&theme=tokyonight&hide_border=true&show_icons=true" height="170" />
