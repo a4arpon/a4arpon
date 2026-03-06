@@ -1,152 +1,190 @@
-# **Xia**
+# Shahin Islam Arpon (Xia)
 
-### **Backend Engineer • E-Commerce & Web-App Developer • JavaScript Enthustic**
+### Backend Engineer • E-commerce Systems Developer • SaaS Infrastructure Builder
 
-Crafting reliable systems, scalable infrastructures, and smooth experiences for growing digital businesses.
+Backend engineer focused on building **scalable APIs, e-commerce platforms, and SaaS infrastructure** using **Node.js, TypeScript, Go, PostgreSQL, and Redis**.
 
----
+I help startups and digital businesses build the **systems behind their products** — reliable backends, event-driven architectures, and high-performance APIs.
 
-## ⚡ **About Me — Blending Logic With Creativity**
-
-I build powerful back-end engines, automation pipelines, and cloud-first applications.
-My work is rooted in clean architecture, performance-focused systems, and stability under load.
-
-But behind the logic, there’s a rhythm.
-
-> *“In the silence of servers, I find music.
-> In the chaos of code, I find clarity.”*
-
-Every project — whether a microservice or a full SaaS deployment — is an opportunity to create something meaningful, stable, and fast.
+Location: Changsha, China  
+Working with teams globally.
 
 ---
 
-## 💼 **Experience That Drives Value**
+# What I Do
 
-### **Posh Print LLC, USA — Back-End Developer**
+I design and build backend systems for:
 
-*Nov 2023 → Nov 2024*
-— E-commerce automations, order processing systems, inventory workflows
+• SaaS platforms  
+• E-commerce infrastructure  
+• high-traffic APIs  
+• real-time analytics pipelines  
+• internal business tools  
+• automation systems
 
-### **JaduPc, Bangladesh — Software Engineer**
-
-*Jan 2025 → End of 2025*
-— Internal tools, desktop apps, system utilities, web automation
-
-### **Client Projects (Global)**
-
-*1+ Year*
-— SaaS MVP builds, dashboards, cloud deployments, custom software systems
-
-💡 **Total: 3+ years building production systems**
+My focus is on **clean architecture, performance, and reliability at scale.**
 
 ---
 
-# 🎯 **What I Deliver to Clients**
+# Technologies I Work With (`Node`, `Go`, `Python`...)
 
-* Scalable back-end systems
-* Secure APIs for high-traffic apps
-* Cloud automation & CI/CD pipelines
-* Real-time features (queues, websockets, notifications)
-* Full-stack apps with clean, modern architecture
-* E-commerce infrastructure and business tools
+## Programming & Scripting Languages
 
-> **I help businesses run smoother, faster, and more efficiently.**
+`TypeScript` `JavaScript` `Go (Golang)` `Python` `Bash`
 
----
+## Frameworks
 
-# 🧩 **Tech Stack (Premium Overview)**
+`Express.js`  `NestJS`  `Hono`  `Go Fiber` `FastApi` `Elysiajs`
 
-### **Core Backend**
+`React` `NextJS` `Remix` `Fresh` `Tauri` `Flutter` `React Native`
 
-`Node.js` · `TypeScript` · `Express` · `Fastify` · `Hono` · `Bun` · `Deno`
-`Prisma` · `Drizzle` · `RabbitMQ` · `Redis`
+## Databases, Tools & Packages
 
-### **Databases**
+`PostgreSQL`  `MongoDB`  `Redis`  `SQLite`  `Turso` `Deno` `Swagger` `Bun` `RabbitMq` `RustFs` `Kafka` `Mongoose` `DrizzleORM` `Prisma` `TanStack`
 
-`PostgreSQL` · `MongoDB` · `MySQL`
+## Infrastructure & DevOps
 
-### **Front-End / Desktop**
+`Docker`  `Linux servers ` `Nginx ` `GitHub Actions`  `AWS`  `Google Cloud` `Cloudflare` `Traefik`
 
-`React` · `Next.js` · `React Native` · `Electron` · `Tauri`
+## Architecture Patterns
 
-### **Cloud & Infrastructure**
-
-`Docker` · `Nginx` · `Linux` · `DigitalOcean` · `AWS` · `Cloudflare`
-`Ansible` · `Terraform` · `Prometheus` · `Grafana` · `Wireguard`
-
-### **Tools**
-
-`Git` · `GitHub` · `Postman` · `Vite` · `Supabase` · `PocketBase` · `Socket.io`
+`REST APIs`  `Microservices`  `Event-Driven Systems`  `Queue Workers`  `Webhooks`  `SSR Analytics`
 
 ---
 
-# 🖤 **JS/TS and Me**
+# E-commerce & SaaS Development
 
-> I’m deeply invested in the JavaScript and TypeScript ecosystem — especially on the server side.
-I work with modern runtimes like Node.js, Deno, and Bun, and I enjoy pushing them to their limits.
-My focus is on building fast, reliable, and scalable backend systems: APIs, queues, schedulers, workers, and high-throughput services.
+I have built systems for:
 
-> I prioritize clean architecture, clear boundaries, strong typing, and performance-driven patterns. Whether it’s designing a distributed service, optimizing an event-driven workflow, or building a custom runtime utility, I enjoy working close to the system while keeping the developer experience smooth and efficient.
+• multi-tenant e-commerce platforms  
+• SaaS applications  
+• order processing pipelines  
+• analytics tracking infrastructure  
+• internal dashboards and admin tools
 
-> This ecosystem isn’t just my toolset — it’s where I do my best work.
+Example capabilities:
 
----
-
-# 🛠️ **Feature Highlights**
-
-✔ High-performance APIs
-
-✔ Background job systems
-
-✔ Worker queues with RabbitMQ
-
-✔ Real-time analytics pipelines
-
-✔ Secure authentication flows
-
-✔ SaaS-ready modular architecture
-
-✔ Clean folder structures & DX-focused patterns
+• scalable checkout APIs  
+• background job processing  
+• payment integrations  
+• server-side event tracking  
+• product and inventory systems
 
 ---
 
-# 🌐 **Connect With Me**
+# Notable Projects
 
-[Facebook](https://facebook.com/a4arpon) •
-[Instagram](https://instagram.com/a4arpon) •
-[LinkedIn](https://linkedin.com/in/a4arpon) •
-[X / Twitter](https://x.com/a4arpon) •
-[StackOverflow](https://stackoverflow.com/users/a4arpon) •
-[YouTube](https://youtube.com/@a4arpon)
+## pocketStore — Multi-Tenant E-commerce Platform
+
+An experimental multi-tenant storefront platform designed for efficient infrastructure and accurate marketing analytics.
+
+Key features:
+
+• multiple stores running on a distributed server cluster
+• Server-side GA4 and Meta CAPI tracking built-in
+• Optimized API pipeline with behavior-driven caching system
+• CDN caching for high performance content delivary   
+• SSR storefront rendering proxy using Deno and JSX
 
 ---
 
-# 📊 **GitHub Overview**
+## DrQuizy — Adaptive Learning Platform
+
+A gamified medical learning platform inspired by tools like Duolingo and PassMedicine.
+
+Focus areas:
+
+• low bandwidth API design  
+• optimized caching strategies
+
+---
+
+## Alala.ci — E-commerce Backend System
+
+A distributed backend system supporting high traffic online stores.
+
+Features included:
+
+• NestJS microservices architecture  
+• Redis caching and async processing  
+• distributed workers for order pipelines  
+• CI/CD deployments using Docker and GitHub Actions
+
+---
+
+# Professional Experience
+
+### Software Engineer — JaduPc
+
+Focused on internal tools, backend APIs, and automation systems.
+
+Work included:
+
+• System utilities  
+• Monitoring APIs  
+• Backend infrastructure development
+
+---
+
+### Backend Developer — Posh Print LLC (USA)
+
+Worked on e-commerce infrastructure and automation systems used by good amount of of users.
+
+Responsibilities included:
+
+• REST API development  
+• order processing systems  
+• backend integrations  
+• performance improvements
+
+
+---
+
+# What I Focus On As an Engineer
+
+My main interests:
+
+• Ecalable backend architecture  
+• Event-driven systems  
+• High-performance APIs  
+• Queue and worker systems  
+• Distributed services
+
+I enjoy building **reliable systems that keep running even under heavy load.**
+
+---
+
+# Open to Collaboration
+
+I work with:
+
+• Startups building SaaS products  
+• Businesses launching e-commerce platforms  
+• Teams needing backend infrastructure  
+• Founders building MVP products
+
+If you are building a product and need help with backend systems, infrastructure, or APIs, feel free to connect.
+
+---
+
+# Connect With Me
+
+LinkedIn  
+https://linkedin.com/in/a4arpon
+
+GitHub  
+https://github.com/a4arpon
+
+Website  
+https://a4arpon.vercel.app
+
+StackOverflow  
+https://stackoverflow.com/users/a4arpon
+
+---
+
+# GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a4arpon&theme=tokyonight&hide_border=true&show_icons=true" height="170" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=a4arpon&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=a4arpon&theme=tokyonight" height="170"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a4arpon&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
-# ✨ **Premium Developer Quote**
-
-<p align="center">
-  <i>“The best systems are invisible — they just work.”</i>
-</p>
-
----
-
-# ☕ **Buy Me a Coffee**
-
-[Buy Me a Coffee](https://buymeacoffee.com/a4arpon)
-
-
-# **Hire Me as Your Dev**
-
-[Upwork](https://freelancerprofilenuxt.mesh.prod.platform.usw2.upwork/freelancers/~01246809d0b8174205)
