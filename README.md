@@ -6,8 +6,8 @@ Backend engineer focused on building **scalable APIs, e-commerce platforms, and 
 
 I help startups and digital businesses build the **systems behind their products** — reliable backends, event-driven architectures, and high-performance APIs.
 
-Location: Changsha, China  
-Working with teams globally.
+📍 Location: Changsha, China  
+🌍 Working with teams globally
 
 ---
 
@@ -17,44 +17,67 @@ I design and build backend systems for:
 
 • SaaS platforms  
 • E-commerce infrastructure  
-• high-traffic APIs  
-• real-time analytics pipelines  
-• internal business tools  
-• automation systems
+• High-traffic APIs  
+• Real-time analytics pipelines  
+• Internal business tools  
+• Automation systems
 
-My focus is on **clean architecture, performance, and reliability at scale.**
+My focus is **clean architecture, reliability, and performance at scale.**
 
 ---
 
-# Technologies I Work With (`Node`, `Go`, `Python`...)
+# Core Technologies
 
-## Programming & Scripting Languages
+## Programming Languages
 
-`TypeScript` `JavaScript` `Go (Golang)` `Python` `Bash`
+`TypeScript` • `JavaScript` • `Go (Golang)` • `Python` • `Bash`
 
-## Frameworks
+## Backend Frameworks
 
-`Express.js`  `NestJS`  `Hono`  `Go Fiber` `FastApi` `Elysiajs`
+`Node.js` • `Express.js` • `NestJS` • `Hono` • `Go Fiber` • `FastAPI`
 
-`React` `NextJS` `Remix` `Fresh` `Tauri` `Flutter` `React Native`
+## Frontend / UI (when needed)
 
-## Databases, Tools & Packages
+`React` • `Next.js` • `Remix` • `Fresh` • `React Native` • `Flutter`
 
-`PostgreSQL`  `MongoDB`  `Redis`  `SQLite`  `Turso` `Deno` `Swagger` `Bun` `RabbitMq` `RustFs` `Kafka` `Mongoose` `DrizzleORM` `Prisma` `TanStack`
+## Databases & Messaging
+
+`PostgreSQL` • `MongoDB` • `Redis` • `SQLite` • `Turso`
+
+Messaging / queues:
+
+`RabbitMQ` • `Kafka`
+
+ORMs:
+
+`DrizzleORM` • `Prisma` • `Mongoose`
 
 ## Infrastructure & DevOps
 
-`Docker`  `Linux servers ` `Nginx ` `GitHub Actions`  `AWS`  `Google Cloud` `Cloudflare` `Traefik`
+`Docker` • `Linux` • `Nginx` • `Traefik`
 
-## Architecture Patterns
+`AWS` • `Google Cloud` • `Cloudflare`
 
-`REST APIs`  `Microservices`  `Event-Driven Systems`  `Queue Workers`  `Webhooks`  `SSR Analytics`
+CI/CD:
+
+`GitHub Actions`
+
+---
+
+# Architecture & Engineering Focus
+
+• REST API design  
+• Microservices architecture  
+• Event-driven systems  
+• Queue workers and job pipelines  
+• Server-side analytics tracking  
+• High-performance backend services
 
 ---
 
 # E-commerce & SaaS Development
 
-I have built systems for:
+I have built backend systems for:
 
 • multi-tenant e-commerce platforms  
 • SaaS applications  
@@ -65,9 +88,9 @@ I have built systems for:
 Example capabilities:
 
 • scalable checkout APIs  
-• background job processing  
+• background job systems  
 • payment integrations  
-• server-side event tracking  
+• server-side conversion tracking  
 • product and inventory systems
 
 ---
@@ -76,15 +99,15 @@ Example capabilities:
 
 ## pocketStore — Multi-Tenant E-commerce Platform
 
-An experimental multi-tenant storefront platform designed for efficient infrastructure and accurate marketing analytics.
+An experimental multi-tenant storefront platform focused on efficient infrastructure and accurate marketing analytics.
 
 Key features:
 
-• multiple stores running on a distributed server cluster
-• Server-side GA4 and Meta CAPI tracking built-in
-• Optimized API pipeline with behavior-driven caching system
-• CDN caching for high performance content delivary   
-• SSR storefront rendering proxy using Deno and JSX
+• Multiple stores running on a shared distributed server cluster  
+• Built-in server-side GA4 and Meta CAPI tracking  
+• Optimized API pipeline with intelligent caching  
+• CDN-based asset delivery  
+• SSR storefront rendering proxy built with Deno and JSX
 
 ---
 
@@ -94,20 +117,21 @@ A gamified medical learning platform inspired by tools like Duolingo and PassMed
 
 Focus areas:
 
-• low bandwidth API design  
-• optimized caching strategies
+• Low-bandwidth API design  
+• Optimized caching strategies  
+• Mobile-friendly architecture
 
 ---
 
 ## Alala.ci — E-commerce Backend System
 
-A distributed backend system supporting high traffic online stores.
+Distributed backend system supporting high-traffic online stores.
 
-Features included:
+Features:
 
 • NestJS microservices architecture  
 • Redis caching and async processing  
-• distributed workers for order pipelines  
+• Distributed workers for order processing  
 • CI/CD deployments using Docker and GitHub Actions
 
 ---
@@ -116,9 +140,9 @@ Features included:
 
 ### Software Engineer — JaduPc
 
-Focused on internal tools, backend APIs, and automation systems.
+Worked on internal tools, backend APIs, and automation systems.
 
-Work included:
+Responsibilities:
 
 • System utilities  
 • Monitoring APIs  
@@ -128,29 +152,28 @@ Work included:
 
 ### Backend Developer — Posh Print LLC (USA)
 
-Worked on e-commerce infrastructure and automation systems used by good amount of of users.
+Worked on e-commerce infrastructure and automation systems used by thousands of users.
 
-Responsibilities included:
+Responsibilities:
 
 • REST API development  
-• order processing systems  
-• backend integrations  
-• performance improvements
-
+• Order processing systems  
+• Backend integrations  
+• Performance improvements
 
 ---
 
-# What I Focus On As an Engineer
+# Engineering Interests
 
-My main interests:
+My main focus areas:
 
-• Ecalable backend architecture  
+• Scalable backend architecture  
 • Event-driven systems  
 • High-performance APIs  
 • Queue and worker systems  
 • Distributed services
 
-I enjoy building **reliable systems that keep running even under heavy load.**
+I enjoy building **reliable systems that continue working under heavy load.**
 
 ---
 
@@ -163,7 +186,7 @@ I work with:
 • Teams needing backend infrastructure  
 • Founders building MVP products
 
-If you are building a product and need help with backend systems, infrastructure, or APIs, feel free to connect.
+If you are building a product and need help with **backend systems, infrastructure, or APIs**, feel free to connect.
 
 ---
 
@@ -188,3 +211,17 @@ https://stackoverflow.com/users/a4arpon
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=a4arpon&theme=tokyonight" height="170"/>
 </p>
+
+---
+
+# Search Keywords
+
+Backend Engineer  
+Node.js Developer  
+TypeScript Backend Developer  
+Golang Backend Engineer  
+E-commerce Backend Developer  
+SaaS Backend Developer  
+API Developer  
+Microservices Engineer  
+Distributed Systems Developer
